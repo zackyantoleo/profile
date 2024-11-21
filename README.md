@@ -1,6 +1,5 @@
-# 🏄‍♂️ Forrest Knight
-
-**`QA Engineer (Developer/Filmmaker/Creator)`**
+<h1 align="center">Hi 👋, I'm Athif Zakiyanto</h1>
+<h3 align="center">QA Engineer Enthusiast (Manual, Automation, UI, API, Database)</h3>
 
 QA Engineer Enthusiast experienced in various testing methodologies, encompassing Functional, API, Database, and UI testing. Experienced with Automation testing using Katalon, Cypress, Selenium, and Playwright. Skilled in creating Test cases, Test plans, and Bug reports. Possesses IT troubleshooting skills and interest in IT Security.
 
